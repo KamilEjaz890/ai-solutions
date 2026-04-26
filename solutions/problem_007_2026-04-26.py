@@ -8,12 +8,12 @@ Task: Write a Python function that counts word frequency in a text and shows the
 from collections import Counter
 import re
 
-# Function to count word frequency in a text
+# Function to count word frequency
 def count_word_frequency(text):
-    # Convert the text to lowercase to ensure accurate counting
+    # Convert the text to lower case to ensure case-insensitive comparison
     text = text.lower()
     
-    # Remove punctuation from the text
+    # Remove punctuation marks from the text
     text = re.sub(r'[^\w\s]', '', text)
     
     # Split the text into words
@@ -37,17 +37,13 @@ def print_top_10_words(top_10_words):
     for word, frequency in top_10_words:
         print(f"{word}\t{frequency}")
 
-# Main function
-def main():
-    # Example text
-    text = "This is a sample text. This text is just a sample. The sample text is used to demonstrate the word frequency counter."
+# Example usage
+if __name__ == "__main__":
+    # Sample text
+    text = "This is a sample text. This text is just a sample. The sample text is used to test the word frequency counter."
     
     # Count the word frequency
     top_10_words = count_word_frequency(text)
     
     # Print the top 10 words
     print_top_10_words(top_10_words)
-
-# Run the main function
-if __name__ == "__main__":
-    main()
