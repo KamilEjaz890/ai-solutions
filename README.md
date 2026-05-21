@@ -32,3 +32,4 @@
 | #9 | 2026-05-18 | Write a Python function that implements the Fibonacci s... | [View](solutions/problem_009_2026-05-18.py) |
 | #10 | 2026-05-19 | Write a Python script that simulates a basic neural net... | [View](solutions/problem_010_2026-05-19.py) |
 | #1 | 2026-05-20 | Write a Python function that implements linear regressi... | [View](solutions/problem_001_2026-05-20.py) |
+| #2 | 2026-05-21 | Write a Python implementation of K-Means clustering fro... | [View](solutions/problem_002_2026-05-21.py) |
