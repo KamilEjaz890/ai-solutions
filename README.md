@@ -37,3 +37,4 @@
 | #4 | 2026-05-23 | Write a Python function that implements bubble sort and... | [View](solutions/problem_004_2026-05-23.py) |
 | #5 | 2026-05-24 | Write a Python script that reads a list of numbers and ... | [View](solutions/problem_005_2026-05-24.py) |
 | #6 | 2026-05-25 | Write a Python implementation of a binary search algori... | [View](solutions/problem_006_2026-05-25.py) |
+| #7 | 2026-05-26 | Write a Python function that counts word frequency in a... | [View](solutions/problem_007_2026-05-26.py) |
