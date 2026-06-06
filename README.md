@@ -48,3 +48,4 @@
 | #5 | 2026-06-03 | Write a Python script that reads a list of numbers and ... | [View](solutions/problem_005_2026-06-03.py) |
 | #6 | 2026-06-04 | Write a Python implementation of a binary search algori... | [View](solutions/problem_006_2026-06-04.py) |
 | #7 | 2026-06-05 | Write a Python function that counts word frequency in a... | [View](solutions/problem_007_2026-06-05.py) |
+| #8 | 2026-06-06 | Write a Python script that generates a simple quiz game... | [View](solutions/problem_008_2026-06-06.py) |
