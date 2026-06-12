@@ -54,3 +54,4 @@
 | #1 | 2026-06-09 | Write a Python function that implements linear regressi... | [View](solutions/problem_001_2026-06-09.py) |
 | #2 | 2026-06-10 | Write a Python implementation of K-Means clustering fro... | [View](solutions/problem_002_2026-06-10.py) |
 | #3 | 2026-06-11 | Write a Python script that builds a simple chatbot usin... | [View](solutions/problem_003_2026-06-11.py) |
+| #4 | 2026-06-12 | Write a Python function that implements bubble sort and... | [View](solutions/problem_004_2026-06-12.py) |
