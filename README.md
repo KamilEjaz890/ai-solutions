@@ -81,3 +81,4 @@
 | #8 | 2026-07-06 | Write a Python script that generates a simple quiz game... | [View](solutions/problem_008_2026-07-06.py) |
 | #9 | 2026-07-07 | Write a Python function that implements the Fibonacci s... | [View](solutions/problem_009_2026-07-07.py) |
 | #10 | 2026-07-08 | Write a Python script that simulates a basic neural net... | [View](solutions/problem_010_2026-07-08.py) |
+| #1 | 2026-07-09 | Write a Python function that implements linear regressi... | [View](solutions/problem_001_2026-07-09.py) |
