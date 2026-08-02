@@ -105,3 +105,4 @@
 | #2 | 2026-07-30 | Write a Python implementation of K-Means clustering fro... | [View](solutions/problem_002_2026-07-30.py) |
 | #3 | 2026-07-31 | Write a Python script that builds a simple chatbot usin... | [View](solutions/problem_003_2026-07-31.py) |
 | #4 | 2026-08-01 | Write a Python function that implements bubble sort and... | [View](solutions/problem_004_2026-08-01.py) |
+| #5 | 2026-08-02 | Write a Python script that reads a list of numbers and ... | [View](solutions/problem_005_2026-08-02.py) |
