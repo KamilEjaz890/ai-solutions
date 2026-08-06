@@ -109,3 +109,4 @@
 | #6 | 2026-08-03 | Write a Python implementation of a binary search algori... | [View](solutions/problem_006_2026-08-03.py) |
 | #7 | 2026-08-04 | Write a Python function that counts word frequency in a... | [View](solutions/problem_007_2026-08-04.py) |
 | #8 | 2026-08-05 | Write a Python script that generates a simple quiz game... | [View](solutions/problem_008_2026-08-05.py) |
+| #9 | 2026-08-06 | Write a Python function that implements the Fibonacci s... | [View](solutions/problem_009_2026-08-06.py) |
