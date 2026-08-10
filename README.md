@@ -113,3 +113,4 @@
 | #10 | 2026-08-07 | Write a Python script that simulates a basic neural net... | [View](solutions/problem_010_2026-08-07.py) |
 | #1 | 2026-08-08 | Write a Python function that implements linear regressi... | [View](solutions/problem_001_2026-08-08.py) |
 | #2 | 2026-08-09 | Write a Python implementation of K-Means clustering fro... | [View](solutions/problem_002_2026-08-09.py) |
+| #3 | 2026-08-10 | Write a Python script that builds a simple chatbot usin... | [View](solutions/problem_003_2026-08-10.py) |
