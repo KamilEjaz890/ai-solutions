@@ -116,3 +116,4 @@
 | #3 | 2026-08-10 | Write a Python script that builds a simple chatbot usin... | [View](solutions/problem_003_2026-08-10.py) |
 | #4 | 2026-08-11 | Write a Python function that implements bubble sort and... | [View](solutions/problem_004_2026-08-11.py) |
 | #5 | 2026-08-12 | Write a Python script that reads a list of numbers and ... | [View](solutions/problem_005_2026-08-12.py) |
+| #6 | 2026-08-13 | Write a Python implementation of a binary search algori... | [View](solutions/problem_006_2026-08-13.py) |
