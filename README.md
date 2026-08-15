@@ -118,3 +118,4 @@
 | #5 | 2026-08-12 | Write a Python script that reads a list of numbers and ... | [View](solutions/problem_005_2026-08-12.py) |
 | #6 | 2026-08-13 | Write a Python implementation of a binary search algori... | [View](solutions/problem_006_2026-08-13.py) |
 | #7 | 2026-08-14 | Write a Python function that counts word frequency in a... | [View](solutions/problem_007_2026-08-14.py) |
+| #8 | 2026-08-15 | Write a Python script that generates a simple quiz game... | [View](solutions/problem_008_2026-08-15.py) |
